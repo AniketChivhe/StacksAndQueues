@@ -1,0 +1,6 @@
+Stacks And Queues
+
+UC1-Create A Stack.
+UC2-Peak and Pop Operation on Stack.
+UC3-Create A Queue.
+UC4-Dequeue operation to delete elements in Queue.
